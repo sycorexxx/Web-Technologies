@@ -1,0 +1,29 @@
+*{
+    font-family:cursive;
+    
+}
+h1{
+    background-color:beige;font-size: 60px;color:darkslategrey;
+    font-family: 'Alkatra', cursive; ;
+}
+#p1{
+    background-color:powderblue;font-size: 20px;color:darkslateblue
+}
+.p2{
+
+    background-color:bisque;font-size: 20px;color:darkslategrey
+}
+#p3{
+
+    background-color:beige;font-size: 20px;color:darkslategrey;
+    font-style: italic;
+}
+#p3:hover{
+    background-color: cadetblue;
+    color: brown;
+}
+img[alt]
+    {
+        color:blue;
+    }
+    
