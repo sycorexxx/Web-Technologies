@@ -1,0 +1,15 @@
+img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    padding: 5px;
+}
+.image{
+    width: 80%;
+    border: 1px solid darkslategray;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px auto;
+    justify-content: space-around;
+    gap: 10px;
+}

@@ -1,0 +1,90 @@
+h1{
+    background-color: slategray;
+    color:ghostwhite;
+    font-size:30px;
+    text-transform: uppercase;
+    word-spacing: 4px;
+}
+hover:h1{
+    font-size: 40px;
+}
+.tate{
+    width:100%;
+
+
+}
+.pete{
+    width:35%;
+    float: left;
+    border-style: ridge;
+    border-width: 8px;
+    border-color:darkslategrey;
+    font-family: cursive;
+    color:steelblue
+
+}
+.amazing{
+    width:60%;
+    float: right;
+}
+/*mobile devices*/
+@media (min-width:320px) and (max-width:480px){
+h1{
+    background-color: saddlebrown;
+}
+.pete{
+    width: 100%;
+}
+.pete p{
+    width:100%;
+
+}
+.amazing{
+    width: 100%;
+}
+.amazing img{
+    width: 100%;
+    height:auto;
+}
+}
+/*tablet devices*/
+@media (min-width:481px) and (max-width:768px){
+h1{
+    background-color: cornflowerblue;
+}
+.pete{
+    width: 100%;
+}
+.pete p{
+    width:100%;
+
+}
+.amazing{
+    width: 100%;
+}
+.daughter img{
+    width: 100%;
+    height:auto;
+}
+}
+
+/* devices*/
+@media (min-width:769px) and (max-width:1024px){
+h1{
+    background-color: indigo;
+}
+.pete{
+    width: 100%;
+}
+.pete p{
+    width:100%;
+
+}
+.amazing{
+    width: 100%;
+}
+.amazing img{
+    width: 100%;
+    height:auto;
+}
+}

@@ -1,0 +1,36 @@
+.parent{
+    height: 1000vh;
+    background-color: cadetblue;
+    width: 50%;
+    border: 5px dashed burlywood;
+}
+.box{
+    width: 300px;
+    height: 300px;
+    border: 5px dotted cornflowerblue;
+
+}
+.box1{
+    background-color:blanchedalmond;
+    position: static;
+}
+.box2{
+    background-color:gray;
+    position: relative;
+    left:20px;
+}
+.box3{
+    background-color:ivory;
+    left: 20px;
+}
+.box4{
+    background-color:pink;
+    position: fixed;
+    bottom:0px;
+    
+}
+.box5{
+    background-color:lightcoral;
+    position: sticky;
+    top:0px;
+}
