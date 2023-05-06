@@ -1,0 +1,41 @@
+
+body{
+    background-color: rgb(12, 59, 46);
+    margin: 0px;
+
+}
+img{
+    float: right;
+    width: 50%;
+    height: 800px;
+}
+h1{
+    color: white;
+    margin: 0px;
+    font-size: 60px;
+    padding: 50px;
+    
+}
+h2{
+    color: white;
+    padding: 50px;
+    
+}
+h3{
+    color: white;
+    padding: 50px;
+    font-size: 15px;
+}
+button{
+    background-color:darkgoldenrod;
+    border: 50px ;
+    color: black;
+    padding: 20px;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    text-align: center;
+    position:relative;
+    left: 40px;
+}
