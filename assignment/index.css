@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: left;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  .container {
+    margin: 60px auto 20px;
+    max-width: 960px;
+    padding: 0 20px;
+  }
+  
+  .watch {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 20px;
+    display: inline-block;
+    width: 30%;
+  }
+  
+  .watch img {
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+  }
+  
+  .watch h3 {
+    margin: 10px 0;
+  }
+  
+  .watch-description {
+    display:none;
+    margin-top: 10px;
+  }
+  
+  .buy-form {
+    display:none;
+    margin-top: 10px;
+  }
